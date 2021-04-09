@@ -19,7 +19,7 @@ Knapsack 문제란 물건의 무게와 값어치를 정해 배낭에 가장
 
 Testcase 1 <br>
 -----------
-![testcase_1](./img/testcase_1.png)
+![testcase_1](./img/testcase_1.PNG)
 
 # Q2- Mining
 ## map
@@ -44,7 +44,7 @@ NxN 크기로 주어진 지도에서 1로 표시된 부분이 다이아몬드가
 
 Testcase 1 <br>
 -----------
-![testcase_2](./img/testcase_2.png)
+![testcase_2](./img/testcase_2.PNG)
 
 
 # Q3- tug of war
