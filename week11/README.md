@@ -30,7 +30,7 @@ N개의 정점과 정점들 사이에  방향성이 없는 에지가 있는 그�
 
 Testcase 1 <br>
 -----------
-![testcase_1](./img/testcase_1.png)
+![testcase_1](./img/testcase_1.PNG)
 
 # Q2- FindTreasure
 ## map
@@ -53,7 +53,7 @@ Testcase 1 <br>
 
 Testcase 1 <br>
 -----------
-![testcase_2](./img/testcase_2.png)
+![testcase_2](./img/testcase_2.PNG)
 
 
 # Q3- Delivery
@@ -81,6 +81,6 @@ Testcase 1 <br>
 
 Testcase 1 <br>
 -----------
-![testcase_3](./img/testcase_3.png)
+![testcase_3](./img/testcase_3.PNG)
 
 
