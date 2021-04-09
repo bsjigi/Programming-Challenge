@@ -42,7 +42,7 @@ F를 차례로 입력받는다.
 
 Testcase 1 <br>
 -----------
-![testcase_2](./img/testcase_2.png)
+![testcase_2](./img/testcase_2.PNG)
 
 
 # Q3- RPG
