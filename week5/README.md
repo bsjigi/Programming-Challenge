@@ -15,7 +15,7 @@
 
 Testcase 1 <br>
 -----------
-![testcase_2](./img/testcase_2.png)
+![testcase_2](./img/testcase_2.PNG)
 
 
 # Q3- String Tower
